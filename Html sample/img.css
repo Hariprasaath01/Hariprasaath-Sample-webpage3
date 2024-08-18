@@ -1,0 +1,10 @@
+body {
+  background-color: blue;
+  width: 1000px;
+}
+.ita {
+	font-family: "times new roman";
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+}
